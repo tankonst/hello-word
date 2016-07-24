@@ -1,3 +1,3 @@
 # hello-word
 first repository
-Hi! This is the new text for the commit.
+This is the first correction done from my computer
